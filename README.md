@@ -1,9 +1,10 @@
 # The Cars
 
+This is study project for course "Programming Languages" @ Afeka College of Engineering.
 
-This is study project for course "Programming Languages" @ Afeka College of Engineering
 Game with map of city, random roads, AI and User driven cars and traffic lights.
-User need to reach destination with minimum time.
+
+Main goal: The player should reach destination for the minimum time.
 
 ## Highlights
 
